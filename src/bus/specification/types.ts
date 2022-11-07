@@ -1,0 +1,4 @@
+export const types = Object.freeze({
+    SET_NEW_SPECEFICATION: 'SET_NEW_SPECEFICATION',
+    EDIT_SPECEFICATION: 'EDIT_SPECEFICATION',
+});
